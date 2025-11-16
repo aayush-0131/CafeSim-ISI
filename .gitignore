@@ -8,3 +8,5 @@ env/
 venv/
 *.egg-info/
 *.egg
+# macOS
+*.DS_Store
